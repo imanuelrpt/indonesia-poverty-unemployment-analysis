@@ -30,7 +30,7 @@ pengangguran bergerak, di provinsi mana keduanya paling parah, dan mengapa kedua
 |---|---|---|
 | 1 | Kemiskinan nasional turun 1,31 poin persentase dalam 5 tahun, terendah dalam seri | 9,78% → 8,47% |
 | 2 | TPT nasional turun lebih cepat daripada kemiskinan | 7,07% → 4,85% (-2,22 pp) |
-| 3 | Kemiskinan memuncak pada 2021, tahun pertama pandemi penuh | 10,14% |
+| 3 | Kemiskinan memuncak pada 2021 saat dampak pandemi paling terasa | 10,14% |
 | 4 | Ketimpangan antarwilayah sangat besar | 3,72% vs 30,03% (8,1x) |
 | 5 | 30 dari 32 provinsi sebanding menurunkan kemiskinan | hanya 2 naik |
 | 6 | Seluruh 32 provinsi sebanding menurunkan TPT | 32 dari 32 |
