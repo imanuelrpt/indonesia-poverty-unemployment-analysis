@@ -1,0 +1,19 @@
+# Dependensi proyek
+# Diuji dengan Python 3.14.8 (Windows). Versi minimum yang lebih lama juga umumnya bekerja.
+
+pandas>=2.2
+numpy>=1.26
+
+# Visualisasi
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.20
+kaleido>=1.0          # diperlukan untuk mengekspor grafik Plotly menjadi PNG
+
+# Machine learning
+scikit-learn>=1.5
+
+# Notebook
+jupyterlab>=4.0
+nbconvert>=7.16
+ipykernel>=6.29
